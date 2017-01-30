@@ -16,7 +16,7 @@ export class AppComponent  {
   title = 'Rob Heroes';
   hero: Hero = {
     id: 1,
-    name: 'Phil Dunphy'
+    name: 'Phil Dunphys'
   };
 }
 
